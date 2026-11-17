@@ -36,3 +36,7 @@ Currently self-studying math and computer science.
 ## Looking for
 
 Remote support or implementation roles in veterinary software.
+
+## Contact
+
+andrew.lord.dev@gmail.com
